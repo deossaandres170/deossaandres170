@@ -4,7 +4,7 @@
 
 Soy aprendiz del **SENA** en la Tecnología en **Análisis y Desarrollo de Software (ADSO)**.
 
-Actualmente me encuentro en **etapa lectiva** y próximo a iniciar mi cuarto trimestre de formación.
+Actualmente me encuentro en **etapa lectiva** y estoy cursando mi cuarto trimestre de formación.
 
 Mi objetivo es convertirme en un **desarrollador de software profesional**, construyendo una base sólida en programación, desarrollo web, bases de datos y desarrollo de aplicaciones.
 
